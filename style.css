@@ -422,6 +422,8 @@ footer {
     color: var(--coffee-cream);
     font-size: 18px;
     transition: all 0.3 ease;
+    margin-left: 15px;
+    text-decoration: none;
 }
 
 .social-links a:hover {
